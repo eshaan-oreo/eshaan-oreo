@@ -1,4 +1,4 @@
-Hey there! Myself Eshaan Awasthi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+### Hey there! Myself Eshaan Awasthi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 - 👨‍🎓 I'm an IT undergrad at **NSUT, Delhi**.
 - 💡 I'm currently learning ReactJS and advanced Data Structures in C++.
 - 💬 **Ask me** about the latest happenings in the tech world. 
